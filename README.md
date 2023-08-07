@@ -12,9 +12,9 @@ Ce projet est un générateur de couleurs aléatoires avec des fonctionnalités 
 
 ## Installation
 
-1. Clonez ce dépôt vers votre machine locale :`` 
+1. Clonez ce dépôt vers votre machine locale :
 
-git clone [https://github.com/ventustyl/couleur.git](https://github.com/votre-utilisateur/generateur-couleurs.git)
+git clone [https://github.com/ventustyl/couleur.git](https://github.com/ventustyl/couleur.git)
 
 bashCopy code
 
