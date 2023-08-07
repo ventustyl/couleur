@@ -1,0 +1,63 @@
+/* App.css */
+/* Réinitialisation des marges et des rembourrages par défaut */
+body,
+div,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Définir la taille de la police de base et la couleur du texte */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #ffffff;
+  overflow: hidden;
+}
+/* Le H1 titre principal */
+h1 {
+  text-align: center;
+  color: white;
+  background: rgb(40, 147, 240);
+  margin-bottom: 20px;
+}
+
+/* Centrer le contenu horizontalement et verticalement */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+/* Définir la largeur maximale pour le contenu principal */
+.main-content {
+  max-width: 600px;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Styles pour les boutons */
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Styles pour les blocs de couleur */
+.color-block {
+  margin: 10px 0;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
